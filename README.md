@@ -1,3 +1,5 @@
+ Fraud Detection Using Random Forest
+
 🔍 Overview
 
 Fraud detection in financial transactions is challenging due to highly imbalanced datasets. This project implements a Random Forest Classifier with Borderline-SMOTE (to generate synthetic fraud cases) and Random Undersampling (to balance legitimate transactions). The model effectively distinguishes between fraudulent and legitimate transactions using optimized hyperparameters and resampling techniques.
@@ -33,3 +35,7 @@ The model is assessed using:
 AUC-ROC Score (~0.98) – Measures fraud detection capability.
 
 Precision-Recall Curve – Ensures minimal false positives while maximizing fraud detection.
+
+GitHub: mohakkm
+
+Email: mohakkmalvankar1104@gmail.com
